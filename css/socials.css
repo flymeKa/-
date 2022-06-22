@@ -1,0 +1,17 @@
+.socials {
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+.socials__item:not(:last-child) {
+    margin-right: 8px;
+}
+.socials__item a {
+    display: block;
+    padding: 6px;
+    border-radius: 50%;
+    color: #fff;
+}
+.socials__item svg {
+    display: block;
+}

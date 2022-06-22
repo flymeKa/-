@@ -1,0 +1,38 @@
+.QA {
+    margin-bottom: 104px;
+}
+.QA__title {
+    margin-bottom: 56px;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 130%;
+    width: 316px;
+}
+.QA__content {
+    display: flex;
+    justify-content: space-between;
+}
+.QA__title-form {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 140%;
+    margin-bottom: 12px;
+}
+.QA__desc {
+    margin-bottom: 28px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 140%;
+    color: #393939;
+    width: 300px;
+}
+.QA__form {
+    border: 1px solid #F5F5F5;
+    box-shadow: 0px 24px 32px rgba(0, 0, 0, 0.04), 0px 16px 24px rgba(0, 0, 0, 0.04), 0px 4px 8px rgba(0, 0, 0, 0.04), 0px 0px 1px rgba(0, 0, 0, 0.04);
+    border-radius: 12px;
+    width: 436px;
+    height: 435px;
+    justify-content: center;
+    padding: 40px 32px;
+    margin-top: -130px;
+}

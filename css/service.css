@@ -1,0 +1,26 @@
+.service:not(:last-of-type) {
+    border: 1px solid #E0E2E9;
+    border-radius: 16px;
+    padding: 28px;
+}
+.service__desc {
+    margin-bottom: 88px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 130%;
+}
+.service__more {
+    display: flex;
+    padding: 81px 28px;
+
+    position: absolute;
+    width: 322px;
+    height: 240px;
+
+    background: #F8F8F9;
+    border-radius: 16px;
+
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 130%;
+}

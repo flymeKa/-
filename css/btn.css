@@ -1,0 +1,39 @@
+.btn {
+    background: #2F5DF3;
+    border-radius: 50px;
+    letter-spacing: 0.01em;
+    font-weight: 600;
+    color: #FFFFFF;
+    display: inline-block;
+    transition: color .7s;
+}
+.btn.btn_big {
+    box-shadow: 0px 4px 15px rgba(47, 93, 243, 0.4);
+    padding: 20px 32px;
+}
+.btn.btn_small {
+    padding: 12px 20px;
+    border: 0;
+}
+.btn.btn_telegram {
+    width: 188px;
+    height: 42px;
+    background: linear-gradient(180deg, #2AABEE 0%, #229ED9 99.22%);
+    border-radius: 6px;
+    padding: 12px 14px;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+}
+.btn.btn_telegram img {
+    margin-right: 8px;
+}
+.btn:hover {
+    background-color: #0943ff;
+    cursor: pointer;
+    transition: color .3s;
+}

@@ -1,0 +1,15 @@
+.footer{
+    background: #2F5DF3;
+    padding: 24px;
+    color: #fff;
+    font-size: 14px;
+}
+.footer__wrap {
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+}
+.footer a {
+    text-decoration: underline;
+    color: #fff;
+}

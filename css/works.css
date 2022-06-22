@@ -1,0 +1,25 @@
+.works {
+    margin-bottom: 104px;
+}
+.works__img {
+    border-radius: 12px;
+    margin-bottom: 24px;
+}
+.works__title {
+    margin-bottom: 40px;
+    font-weight: 700px;
+}
+.works__desc {
+    font-weight: 700;
+    margin-bottom: 56px;
+}
+.works__name {
+    margin-bottom: 8px;
+    font-weight: 700px;
+}
+.works__btn {
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    margin-left: 80px;
+}

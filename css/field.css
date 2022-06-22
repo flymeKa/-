@@ -1,0 +1,13 @@
+.field {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #989CAA;
+    border: 1px solid #D9DCE5;
+    border-radius: 4px;
+    padding: 16px 20px;
+    margin-bottom: 16px;
+    display: block;
+    min-width: 300px;
+    
+}

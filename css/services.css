@@ -1,0 +1,29 @@
+.services {
+    height: 872px;
+    margin-bottom: 80px;
+}
+.services_section {
+    margin-bottom: 32px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: #9EA2AD;
+}
+.services h2 {
+    margin-bottom: 56px;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 130%;
+    width: 668px;
+}
+.services__items {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 24px;
+}
+.services mark {
+    color: #2F5DF3;
+    background: none;
+}
